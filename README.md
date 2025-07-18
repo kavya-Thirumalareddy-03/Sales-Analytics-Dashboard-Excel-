@@ -23,4 +23,5 @@ An interactive Excel dashboard to analyze sales performance by region, category,
 
 ## 📸 Preview
 
-![Dashboard Preview](preview.png)
+<img width="1718" height="876" alt="Screenshot 2025-07-17 160758" src="https://github.com/user-attachments/assets/bb0e7fba-bbaf-43ff-9aa1-fd7bc423175b" />
+
